@@ -1,0 +1,12 @@
+UPDATE DETAILS:
+
+v2.7 Added:
+
+-Added Comments
+-Added Configuration for Unfollow/Follow/Comments, Now you can DISABLE/ENABLE any option
+-Added Chance for Comments
+-Added Button Comments for write Comments , one per Line, every line is different comment
+-Change Cooldown time from Seconds for Minutes
+-Added button for Killing all chrome processes
+-Added Update button for Download new chromedriver lates version (Not Testet Yet, but should works)
+-Added configuration for Unfollow and Follow&Like, You can now set 0 for Disable.

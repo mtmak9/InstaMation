@@ -1,0 +1,22 @@
+-------------------------------------
+NEW ACCOUNT LIMITATION:
+-------------------------------------
+500 Total actions/day 
+(Likes,Comments,Follow,unfollow,Dm)
+20-50 DM/day
+20 - max tag people
+10 - max tag people per post
+--------------------------------------
+STANDARD LIMITS:
+--------------------------------------
+200 Likes/day
+200 follow/unfollow/day (and 10follow per hours)
+100 comments per day
+50 Dm/day
+--------------------------------------
+SAFE MODE:
+--------------------------------------
+week 1: 50 follow/unfollow per day
+week 2: 100 follow/unfollow per day
+week 3: 150 follow/unfollow per day
+--------------------------------------
