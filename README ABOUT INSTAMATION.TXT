@@ -10,9 +10,13 @@
 
 CONFIGURATION:
 ----------CHROMEBROWSER---------------------
-Program use Chrome version: 84.0.4147.125.
+Added Chrome version: 84.0.4147.125. -- You will need propably Update chrome browser in the folder for correct working application.
 If you will have any problems with Run program, just make sure you have this Ver
 of Chrome, reinstal browser with Correct version I Attached instalation file with them in "Chrome Browser" Folder.
+
+------NOTICE------
+Instagram very often update their xpath and web elements. Some xpath inside the code will need update for properly working.
+If you want to update app, check xpath at first, because 100% there will be problems.
 
 ----LOGIN DETAILS-----
 Your login details is completly Safe is not Stored elsewhere.
